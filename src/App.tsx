@@ -12,7 +12,6 @@ import {
 import Home from "./Modules/Shared/Home/Home";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { blue } from "@material-ui/core/colors";
-import Header from "./Modules/Shared/Header/Header";
 import Footer from "./Modules/Shared/Footer/Footer";
 
 
